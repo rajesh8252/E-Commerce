@@ -77,7 +77,7 @@ const Footer = () => {
                                         
                                         <div className='flex items-center gap-3'>
                                                 <FaLocationArrow/>
-                                                <p>Noida,Utter Pradesh</p>
+                                                <p>Tenkasi,Tamil Nadu</p>
                                         </div> <div className='flex items-center gap-3'>
                                                 <FaMobileAlt/>
                                                 <p>+91-6382527242</p>
